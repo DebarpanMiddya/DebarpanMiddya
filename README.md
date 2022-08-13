@@ -8,3 +8,5 @@
 <p align="left">
   <a href="https://github.com/DebarpanMiddya"><img align="centre" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30px" width="30px" alt="Github" /></a>
     <a href="https://twitter.com/DebarpanMiddya"><img align="centre" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png" height="30px" width="30px" alt="Github" /></a>
+      <a href="https://www.facebook.com/profile.php?id=100075549261379"><img align="centre" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" height="30px" width="30px" alt="Github" /></a>
+  

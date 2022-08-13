@@ -6,4 +6,5 @@
 
 <h3 align="left"> To connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/DebarpanMiddya"><img align="centre" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="20px" width="20px" alt="Github" /></a>
+  <a href="https://github.com/DebarpanMiddya"><img align="centre" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30px" width="30px" alt="Github" /></a>
+    <a href="https://twitter.com/DebarpanMiddya"><img align="centre" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png" height="30px" width="30px" alt="Github" /></a>

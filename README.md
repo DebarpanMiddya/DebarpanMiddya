@@ -5,3 +5,5 @@
 - To reach me **debarpan1220@gmail.com**
 
 <h3 align="left"> To connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/DebarpanMiddya"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" /></a>

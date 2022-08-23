@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **android projects**
 
-- 👨‍💻 Recent wallpaper of my Windows12 concept is avilable here 👉 [Dropbox link]([https://drive.google.com/drive/folders/1iQkMH96PKmD67DGq8g_vJKKyAU3gMftq?usp=sharing](https://www.dropbox.com/sh/ui5k41s41bohdok/AADXeRgBJm88BUAH8XHprwpWa?dl=0))
+- 👨‍💻 Recent wallpaper of my Windows12 concept is avilable here 👉 [https://www.dropbox.com/sh/ui5k41s41bohdok/AADXeRgBJm88BUAH8XHprwpWa?dl=0]([Dropbox Link])
 
 - 📫 How to reach me **deabarpan1220@gmail.com**
 

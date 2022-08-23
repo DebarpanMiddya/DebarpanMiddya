@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ayush Ghosal</h1>
-<h3 align="center">A curious backend Java developer from India</h3>
+<h1 align="center">Hi 👋, I'm Debarpan Middya</h1>
+<h3 align="center">A fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **android developement**
+- 🌱 I’m currently learning **Different framework of Javascript(React) and Typescript(Angular)**
 
 - 👯 I’m looking to collaborate on **android projects**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1iQkMH96PKmD67DGq8g_vJKKyAU3gMftq?usp=sharing](https://drive.google.com/drive/folders/1iQkMH96PKmD67DGq8g_vJKKyAU3gMftq?usp=sharing)
+- 👨‍💻 Recent wallpaper of my Windows12 concept is avilable here 👉 [Dropbox link]([https://drive.google.com/drive/folders/1iQkMH96PKmD67DGq8g_vJKKyAU3gMftq?usp=sharing](https://www.dropbox.com/sh/ui5k41s41bohdok/AADXeRgBJm88BUAH8XHprwpWa?dl=0))
 
-- 📫 How to reach me **ayush786113@gmail.com**
+- 📫 How to reach me **deabarpan1220@gmail.com**
 
 - 📄 Know about my experiences by my projects [https://github.com/Ayush786113/](https://github.com/Ayush786113/)
 
